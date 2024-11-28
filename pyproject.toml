@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "new folder (3)"
+version = "0.1.0"
+description = ""
+authors = ["Mrkhan9914626 <khan9914626@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.39.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
